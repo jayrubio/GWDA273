@@ -1,0 +1,12 @@
+
+	h1 {
+		color:red;
+		font-size:24px;
+		font-family:"Trebuchet MS", Helvetica,sans-serif;
+	}	
+
+	body {
+		background-image: url("/https://static.pexels.com/photos/33045/lion-wild-africa-african.jpg");
+		background-size:cover;
+	}
+	
