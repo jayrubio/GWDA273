@@ -1,0 +1,69 @@
+.logo {
+	position:absolute;
+	top:32%;
+	left:440px;
+	animation-delay:2s;
+}
+
+a {
+	text-decoration:none;
+	position:relative;
+	left:385px;
+	padding:40px;
+	font-family:'JAF-Domus',sans-serif;
+	transition-property: color;
+	transition-duration: 1s;
+}
+
+a:hover {
+	color:white;
+}
+
+h1 {
+	text-align:center;
+	margin-top: 600px;
+	font-family:'JAF-Domus',sans-serif;
+}
+
+p{
+	text-align:center;
+	margin-bottom:50px;
+}
+
+.button {
+border:2px solid blue;
+padding:5px;
+background-color:blue;
+margin-left:582px;
+color:white;
+position:absolute;
+left:10px;
+font-family:'JAF-Domus',sans-serif;
+transition-property: background;
+transition-duration: 1s;
+}
+
+.button:hover {
+	background-color:gray;
+}
+
+.picone {
+	float:left;
+	margin-top:100px;
+	position:relative;
+	left:425px;
+	margin-bottom:100px;
+}
+
+.pictwo {
+	float:left;
+	margin-top:100px;
+	position:relative;
+	left:430px;
+}
+
+body {
+	background-image: url("bridge.jpg");
+	background-size: cover;
+	background-attachment:fixed;
+}
